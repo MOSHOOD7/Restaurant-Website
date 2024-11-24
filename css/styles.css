@@ -1,0 +1,27 @@
+.hero {
+    background-color: rgba(0, 0, 0, 0.5); 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  .card {
+    max-width: 250px;
+    margin: 0 auto;  
+  }
+  .card-img-top {
+    height: 150px; 
+    object-fit: cover; 
+  }
+  
+  .card-title {
+    color: #333;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+    font-size: 0.9rem;
+  }
+  
+  h2{
+    font-size: x-large;
+    text-align: center;
+  }
